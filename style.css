@@ -1,0 +1,22 @@
+body {
+    background-color: #f0efe8;
+}
+
+h1 {
+    font-family: "League Spartan", serif;
+    font-size: 10em;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Quicksand", serif;
+    font-size: 3em;
+    margin-top: auto;
+    text-align: center;
+}
+
+p {
+    font-family: "Quicksand", serif;
+    text-align: center;
+}
